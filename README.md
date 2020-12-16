@@ -10,3 +10,7 @@ I can also work with PHP, Java, or Angular in the front.<br>
 
 #### Contact me
 iliastepanov1996@gmail.com
+
+![Ilya's github stats](https://github-readme-stats.vercel.app/api?username=thatsLegit&show_icons=true&theme=dark)
+
+
