@@ -8,6 +8,8 @@ I'm passionate about learning new things everyday and coding :grin::computer:<br
 My strongest skills are Javascript, Node.js, React, Sql, AdobeXd, Python(Flask, Machine learning, deep learning).<br>
 I can also work with PHP, Java, or Angular in the front.<br>
 
+#### Visit my website and know more about my projects ! http://ilyastepanov.tech/
+
 #### Contact me
 iliastepanov1996@gmail.com
 
