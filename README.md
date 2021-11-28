@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Ilya, currently finishing my 2nd year of Master's Degree in Computer Sciences in Toulouse, France 🎓<br>
-I'm currently looking for a 5/6-months internship anywhere in Europe 🇪🇺, even remotely.<br>
+I'm Ilya, currently working as a full-stack at Publicis Sapient Frane in Paris.<br>
 I'm passionate about learning new things everyday and coding :grin::computer:<br>
 
 #### Skill set
