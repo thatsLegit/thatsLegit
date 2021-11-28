@@ -5,8 +5,9 @@ I'm currently looking for a 5/6-months internship anywhere in Europe 🇪🇺, e
 I'm passionate about learning new things everyday and coding :grin::computer:<br>
 
 #### Skill set
-My strongest skills are Javascript, Node.js, React, Sql, AdobeXd, Python(Flask, Machine learning, deep learning).<br>
-I can also work with PHP, Java, or Angular in the front.<br>
+Mainly working with Javascript, Node.js, React, React Native and Python.<br>
+I am also widely interested in 3d game dev, IoT and IA.
+I have some experience with PHP, Java, C++. <br>
 
 #### Visit my website and know more about my projects ! http://ilyastepanov.tech/
 
