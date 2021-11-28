@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ilya, currently working as a full-stack at Publicis Sapient Frane in Paris.<br>
+I'm Ilya, currently working as a full-stack at Publicis Sapient France in Paris.<br>
 I'm passionate about learning new things everyday and coding :grin::computer:<br>
 
 #### Skill set
