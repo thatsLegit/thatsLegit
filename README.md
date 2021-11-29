@@ -10,9 +10,6 @@ I have some experience with PHP, Java, C++. <br>
 
 #### Visit my website and know more about my projects ! http://ilyastepanov.tech/
 
-#### Contact me
-iliastepanov1996@gmail.com
-
 ![Ilya's github stats](https://github-readme-stats.vercel.app/api?username=thatsLegit&show_icons=true&theme=onedark)
 
 
