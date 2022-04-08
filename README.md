@@ -8,7 +8,7 @@ Mainly working with Javascript, Node.js, React, React Native and Python.<br>
 I am also widely interested in 3d game dev, IoT and IA.
 I have some experience with PHP, Java, C++. <br>
 
-#### Visit my website and know more about my projects ! http://ilyastepanov.tech/
+#### Visit my website and know more about my projects ! http://ilyastepanov.online/
 
 ![Ilya's github stats](https://github-readme-stats.vercel.app/api?username=thatsLegit&show_icons=true&theme=onedark)
 
